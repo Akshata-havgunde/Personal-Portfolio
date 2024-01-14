@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
+git clone 
 Open the project folder:
 
 bash
