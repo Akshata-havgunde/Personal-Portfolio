@@ -24,7 +24,7 @@ Contact Form: Include a contact form or provide links to your social media profi
 Installation:
 If someone wants to run this project locally, they can follow these steps:
 
-Clone the repository:
+Clone the repository:https://github.com/Akshata-havgunde/Personal-Portfolio.git
 
 bash
 Copy code
